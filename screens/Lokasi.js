@@ -49,7 +49,7 @@ export default class Lokasi extends React.Component{
                     fetchDetails
                     listViewDisplayed='auto'
                     query={{
-                        key: 'AIzaSyCKeMD8Ua7l6PqcRjPBsfBajzE9W3pyFuU',
+                        key: 'YOUR_API_KEY',
                         language: 'id',
                         types: 'geocode',
                     }}

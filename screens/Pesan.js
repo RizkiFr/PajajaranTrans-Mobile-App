@@ -172,7 +172,7 @@ export default class Pesan extends React.Component{
                         fetchDetails
                         listViewDisplayed='auto'
                         query={{
-                            key: 'AIzaSyCKeMD8Ua7l6PqcRjPBsfBajzE9W3pyFuU',
+                            key: 'YOUR_API_KEY',
                             language: 'id',
                             types: 'geocode',
                         }}
@@ -193,7 +193,7 @@ export default class Pesan extends React.Component{
                         fetchDetails
                         listViewDisplayed='auto'
                         query={{
-                            key: 'AIzaSyCKeMD8Ua7l6PqcRjPBsfBajzE9W3pyFuU',
+                            key: 'YOUR_API_KEY',
                             language: 'id',
                             types: 'geocode',
                         }}
